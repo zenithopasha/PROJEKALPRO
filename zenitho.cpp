@@ -25,6 +25,10 @@ int main (){
 
     do
     {
+        cout << "TABEL DATA SISWA" << endl;
+        cout << "1. Tambah Data Siswa" << endl;
+        cout << "2. Tampilkan Data Siswa" << endl;
+        cout << "3. Keluar" << endl;
 
 
 
