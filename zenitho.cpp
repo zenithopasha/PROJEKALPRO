@@ -6,7 +6,8 @@ using namespace std;
 
 struct siswa {
     string nama;
-    int umur;
+    int nis;
+    int poin;
     int kelas;
 };
 
