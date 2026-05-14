@@ -2,9 +2,9 @@
 #include <string>
 
 
-int main 
+int main ()
 {
-
+    cout << "Hello world" << endl;
 
 
 
